@@ -1,0 +1,119 @@
+/* Main container */
+.home-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 24px;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Title styles */
+.title {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  text-align: center;
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 32px;
+}
+
+/* Card styles */
+.card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  padding: 20px;
+  margin-bottom: 24px;
+  transition: 0.3s;
+}
+
+.card h2 {
+  margin-bottom: 12px;
+  font-size: 20px;
+  color: #333;
+}
+
+.card-info {
+  font-size: 14px;
+  color: #777;
+  margin-top: 10px;
+}
+
+/* Form styles */
+.form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (min-width: 600px) {
+  .form-row {
+    flex-direction: row;
+    align-items: center;
+  }
+}
+
+/* Button */
+.custom-button {
+  padding: 10px 16px;
+  background-color: #0f6efd;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.custom-button:hover {
+  background-color: #0b5ed7;
+}
+
+.custom-button:disabled {
+  background-color: #999;
+  cursor: not-allowed;
+}
+
+/* Input */
+.custom-input {
+  flex: 1;
+  padding: 10px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+/* Table wrapper */
+.table-wrapper {
+  overflow-x: auto;
+}
+
+/* Fade in and slide-up animations */
+.fade-in {
+  animation: fadeIn 0.4s ease-in;
+}
+
+.slide-up {
+  animation: slideUp 0.5s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(15px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Gradient heading text */
+.gradient-text {
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
