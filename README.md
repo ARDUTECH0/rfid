@@ -7,8 +7,8 @@ CheckPoint is a smart employee attendance system using RFID cards. It allows rea
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@ArduTech](https://www.youtube.com/@ArduTechs))
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]([https://www.tiktok.com/@ardutech](https://www.tiktok.com/@ardutechse))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]((https://www.youtube.com/@ArduTechs))
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]((https://www.tiktok.com/@ardutechse))
 [![Email](https://img.shields.io/badge/Contact-Email-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifemadat@gmail.com)
 
 </div>
