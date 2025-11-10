@@ -92,9 +92,31 @@ Click the **Export PDF** button to download a full log of the attendance with pr
 
 ---
 
-## 📚 License
+# MIT Non-Commercial License (Custom)
 
-MIT---
+Copyright (c) 2025 Eng. Seif Eldin — Ardu Tech
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use,
+copy, modify, merge, publish, and distribute copies of the Software for
+**personal, educational, or research purposes only**, subject to the following conditions:
+
+1. **Commercial use is strictly prohibited.**
+   This includes selling, sublicensing, or using the Software as part of any
+   paid or revenue-generating product or service without prior written consent
+   from the copyright holder.
+
+2. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ## 🔌 Arduino + RFID Integration (ESP32 + PN532 + FastLED)
 
